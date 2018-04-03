@@ -2,7 +2,7 @@
 
 ### Alistair MacDonald
 
-<a href="tel:617-669-1768">Phone</a> |
+[Phone](617-669-1768) |
 <a href="mailto:al@pwn.io">Email</a> |
 <a href="https://github.com/f1lt3r">Github</a> |
 <a href="https://npmjs.org/~f1lt3r">NPM</a> |
